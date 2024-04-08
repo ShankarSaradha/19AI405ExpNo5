@@ -1,8 +1,8 @@
 ## Ex-No-05--Implement Simple Hill Climbing Algorithm
 
-### Name: Kadin Samson L
+### Name: Shankar Saradha 
 
-### Register Number: 212221230044
+### Register Number: 212221240052
 
 ### Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
